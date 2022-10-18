@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raghul7
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning Node.JS
-- 💞️ I’m looking to collaborate on Frontend development
+- 🌱 I’m currently learning Cloud
+- 💞️ I’m looking to collaborate on Web application development
 
 
 <!---
